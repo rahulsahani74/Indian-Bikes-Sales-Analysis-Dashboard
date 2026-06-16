@@ -20,10 +20,10 @@ This project is an interactive Microsoft Excel dashboard created to analyze Indi
 - Pivot Tables
 - Pivot Charts
 - Slicers
-
+  
 ## Dashboard Preview
 
-![Dashboard](Screenshot 2026-06-16 100052.png)
+![Dashboard](Screenshot%202026-06-16%20100052.png)
 
 ## Author
 
