@@ -23,7 +23,7 @@ This project is an interactive Microsoft Excel dashboard created to analyze Indi
 
 ## Dashboard Preview
 
-![Dashboard](dashboard-screenshot.png)
+![Dashboard](Screenshot 2026-06-16 100052.png)
 
 ## Author
 
